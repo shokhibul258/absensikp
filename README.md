@@ -12,5 +12,5 @@ user :	admin@admin.com
 pass :	password
 
 Login Karyawan
-user :	jhony@gmsil.com	
+user :	jhony@gmail.com	
 pass :	password
