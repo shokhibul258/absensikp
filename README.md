@@ -8,7 +8,7 @@ Cara Install :
 6. Jalankan browser, buka http://localhost/absensiqrcode/
 
 Login admin
-user :	admin@admin.co 
+user :	admin@admin.com
 pass :	password
 
 Login Karyawan
