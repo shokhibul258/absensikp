@@ -6,3 +6,11 @@ Cara Install :
 4. Buat database di phpmyadmin dengan nama "db_absensi"
 5. Import database menggunakan file "db_absensi.sql" yang ada di folder databse.
 6. Jalankan browser, buka http://localhost/absensiqrcode/
+
+Login admin
+user :	admin@admin.co 
+pass :	password
+
+Login Karyawan
+user :	jhony@gmsil.com	
+pass :	password
